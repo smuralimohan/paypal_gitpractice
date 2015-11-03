@@ -33,6 +33,8 @@ public class Test {
 			Thread.sleep(10000);
 			subject.updateNewScore(100, 5, 9, "India");
 			Thread.sleep(6000);
+			subject.updateNewScore(101, 6, 7, "India");
+			Thread.sleep(6000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
