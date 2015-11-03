@@ -12,3 +12,5 @@ Note:  Even though the sample enrolls a single finger per user, DigitalPersona r
 
 
 Changes made in branch b1
+
+Making some more changes
